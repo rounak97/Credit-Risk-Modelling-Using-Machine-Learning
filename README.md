@@ -1,4 +1,6 @@
 # Credit-Risk-Modelling-Using-Machine-Learning
+Course offered by CampusX
+
 **Understanding Credit Risk Modelling**
 Gain a comprehensive understanding of the fundamentals of credit risk assessment and discover the pivotal role that machine learning plays in modelling credit risk.
 
