@@ -1,32 +1,36 @@
 # Credit-Risk-Modelling-Using-Machine-Learning
 
-**Objective of the project**
+## **Objective of the project**
 
-**1. Understanding Credit Risk Modelling**
+**1. Understanding Credit Risk Modelling:**
 Gain a comprehensive understanding of the fundamentals of credit risk assessment and discover the pivotal role that machine learning plays in modelling credit risk.
 
-**2. Data Preprocessing and Feature Engineering**
+**2. Data Preprocessing and Feature Engineering:**
 Delve into various data preprocessing techniques and feature engineering methods essential for preparing data suitable for credit risk modelling.
 
-**3. Building Machine Learning Models for Credit Risk**
+**3. Building Machine Learning Models for Credit Risk:**
 Learn to implement various machine learning algorithms like XGBoost, DecisionTrees and Random Forest to develop precise and predictive models for assessing credit risk.
 
-**4. Evaluation and Interpretation of Credit Risk Models**
+**4. Evaluation and Interpretation of Credit Risk Models:**
 Master the skills needed to evaluate credit risk models and interpret their outcomes, enabling informed decision-making within a financial context.
 
 # **DataSet used :**
-There are 2 data set used. The case_study_1 is the Bureau dataset and case_study_2 is the Internal product dataset.
+There are 2 dataset used. The case_study_1 is the Bureau dataset and case_study_2 is the Internal product dataset.
 
 **Bureau Dataset:**
 
 **Source:** The Bureau dataset typically refers to credit information obtained from credit bureaus such as Equifax, Experian, TransUnion, etc. These bureaus collect data from various financial institutions, creditors, and other sources to create credit reports for individuals and businesses.
+
 **Data:** This dataset includes information like credit scores, payment history, outstanding debt, credit inquiries, public records (such as bankruptcies or liens), and other relevant credit-related information.
+
 **Usage:** Lenders use this data to assess an individual's or business's creditworthiness, determine the risk of default on a loan, set interest rates, and make decisions on approving or denying credit applications.
 
 **Internal Product Dataset:**
 
 **Source:** The Internal product dataset, on the other hand, refers to data that is specific to the financial institution or organization using it. This could include data related to the institution's own products, services, customer interactions, and operational processes.
+
 **Data:** This dataset may include information on internal credit scores, customer account details, transaction history, customer behavior patterns, product usage information, and any other data collected by the institution in the course of its operations.
+
 **Usage:** Financial institutions use internal product data to complement the information obtained from external credit bureaus. By combining internal and external data, institutions can gain a more comprehensive view of a customer's financial behavior and creditworthiness, allowing for more accurate risk assessments and tailored product offerings.
 
 In summary, while the Bureau dataset provides external credit information from credit bureaus, the Internal product dataset offers internal data specific to the institution using it. Combining these datasets can provide a more holistic view of credit risk and help financial institutions make well-informed lending decisions.
